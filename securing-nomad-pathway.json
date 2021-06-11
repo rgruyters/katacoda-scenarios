@@ -17,6 +17,11 @@
       "course_id": "enable-acls",
       "title": "Configure a Nomad cluster for ACLs, bootstrap the ACL system, author your first policy, and grant a token based on it.",
       "description": ""
+    },
+    {
+      "course_id": "nomad-reverse-proxy",
+      "title": "Deploying Nomad UI with a Reverse Proxy",
+      "description": "Learn how to configure and deploy a TLS-uplift reverse proxy for the Nomad UI."
     }
   ]
 }
